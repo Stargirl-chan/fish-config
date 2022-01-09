@@ -1,0 +1,1 @@
+../theme/fish_prompt.fish
